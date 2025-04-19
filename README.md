@@ -1,4 +1,6 @@
-![Screenshot_19-4-2025_15130_127 0 0 1](https://github.com/user-attachments/assets/fa5c68e4-9e2a-4d46-b44d-8acb40bcc89e)# Mindmetrics-A-Full-Stack-ML-Powerhouse-Mental-Health-Awareness💙
+# Mindmetrics-A-Full-Stack-ML-Powerhouse-Mental-Health-Awareness💙
+
+![Screenshot_19-4-2025_15130_127 0 0 1](https://github.com/user-attachments/assets/fa5c68e4-9e2a-4d46-b44d-8acb40bcc89e)
 
 We’re thrilled to share Mindmetrics, a full-stack machine learning web app built by Rani Soni and Rushikesh Gore, blending bleeding-edge ML, dual AI chatbots, and a stunning frontend to empower mental health insights. Check out the repo and dive into the code! 🚀
 🔍 What’s Mindmetrics?
